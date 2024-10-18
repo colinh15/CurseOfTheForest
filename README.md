@@ -19,5 +19,6 @@ To see the code of the project:
 To just play the project:
 1. Click on the EXE file.
 2. Windows will give you a warning.  Click "More info", then "Run anyway".
+
 NOTE: If you do not trust doing this or your computer will not allow you to, then
       just run the project through Visual Studio, as described in the steps above.
